@@ -1,0 +1,15 @@
+Generative AI
+-> Introduction to Generative AI
+-> Data Preprocessing and Embeddings
+-> Intro to LLMs
+-> Transformer Architecture Bert
+-> Hugging Face Platform & it's API
+-> Complete Guide of Open AI (ChatGpt)
+-> Prompt Engineering
+-> Vector Databases
+-> LangChain -
+-> Open source LLMs (Ollama)
+-> Streamlit
+-> RAG (Private Data)
+-> Fine Tuning
+-> Projects
